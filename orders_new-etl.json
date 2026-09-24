@@ -1,0 +1,29 @@
+[
+  {
+    "order_id": 13,
+    "order_date": "2024-01-10",
+    "total_amount": 255.50,
+    "customer": {
+      "customer_id": 113,
+      "name": "pohn Doe",
+      "email": "pohndoe@example.com",
+      "address": "121 Main StSpringfield"
+    },
+    "products": [
+      {
+        "product_id": "P01",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": 25.00,
+        "quantity": 2
+      },
+      {
+        "product_id": "P02",
+        "name": "Bluetooth Keyboard",
+        "category": "Electronics",
+        "price": 45.00,
+        "quantity": 1
+      }
+    ]
+  }
+]
